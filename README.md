@@ -35,28 +35,3 @@ Streamlit Frontend (Web UI)
 | Dataset | Kaggle Loan Prediction Dataset |
 
 ---
-
-# Project Structure
-loan_approval_real/
-│
-├── data/
-│ ├── train.csv
-│ └── test.csv
-│
-├── model/
-│ └── model.pkl
-│
-├── backend/
-│ └── main.py
-│
-├── frontend/
-│ └── app.py
-│
-├── model_training.py
-├── requirements.txt
-└── README.md
-
-
-
-
-
